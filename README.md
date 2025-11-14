@@ -2,14 +2,14 @@
 
 This repository contains a simple and clean two-page portfolio website built using HTML and basic CSS. The purpose of this project is to practice web design fundamentals and create a personal portfolio structure that can be expanded in the future.
 
-The website includes:
+**The website includes:**
 
 A Home page with introduction content
 
 A Contact page with basic contact details (or a simple form)
 
 It is lightweight, beginner-friendly, and easy to customize.
-📖 Overview
+**📖 Overview**
 
 This portfolio website demonstrates:
 
@@ -23,8 +23,8 @@ Basic page layout design
 
 Clean code suitable for learning or personal use
 
-🧩 Features
-⭐ Home Page
+**🧩 Features
+⭐ Home Page**
 
 Introduction/About Me section
 
@@ -34,7 +34,7 @@ Navigation link to Contact page
 
 Simple and neat design
 
-⭐ Contact Page
+**⭐ Contact Page**
 
 Basic contact information or simple contact form
 
@@ -42,7 +42,7 @@ Link to return to Home page
 
 Clear and minimal layout
 
-⭐ General Features
+**⭐ General Features**
 
 Works on all modern browsers
 
@@ -52,14 +52,14 @@ Fully customizable
 
 Lightweight and fast
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 Technology	Purpose
 HTML5	Page structure & content
 CSS3	Styling, colors, layout
 
 No frameworks or libraries — fully handwritten HTML & CSS.
 
-📁 Project Structure
+**📁 Project Structure**
 portfolio-website/
 │── index.html        → Home page
 │── contact.html      → Contact page
