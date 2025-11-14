@@ -1,4 +1,4 @@
-🌐 Portfolio Website (HTML + CSS)
+**🌐 Portfolio Website (HTML + CSS)**
 
 This repository contains a simple and clean two-page portfolio website built using HTML and basic CSS. The purpose of this project is to practice web design fundamentals and create a personal portfolio structure that can be expanded in the future.
 
